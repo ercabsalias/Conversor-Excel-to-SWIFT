@@ -477,12 +477,6 @@ O sistema **NÃO** valida licença durante conversão (apenas no login).
 
 ---
 
-## 📄 Licença
-
-Proprietary - OpenLimits
-
----
-
 ## 👥 Contribuindo
 
 Para contribuir:
