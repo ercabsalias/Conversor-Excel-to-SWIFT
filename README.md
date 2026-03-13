@@ -163,7 +163,7 @@ interface ColumnMapping {
 
 ```bash
 # Clone o repositório
-git clone <repo-url>
+git clone https://github.com/ercabsalias/Conversor-Excel-to-SWIFT.git
 cd ConversorExcelToSwift
 
 # Instale dependências
